@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielavmattos/rupaul-girls/issues"
   },
-  "homepage": "https://github.com/gabrielavmattos/rupaul-girls#readme"
+  "homepage": "https://github.com/gabrielavmattos/rupaul-girls#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
 }
